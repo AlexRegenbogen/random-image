@@ -1,5 +1,5 @@
 {
-    "name": "emsifa/random-image",
+    "name": "alexregenbogen/random-image",
     "description": "Store random image from Unsplash to your Laravel application",
     "keywords": [
         "emsifa",
@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": "^8.1",
-        "illuminate/contracts": "^10.0",
+        "illuminate/contracts": "^11.0",
         "intervention/image": "^2.7",
         "spatie/laravel-package-tools": "^1.13.0"
     },
